@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2021-06-07T22:18:17.158Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" version="14.7.3" etag="dsL0lD5cZf5cKtV8UEhC" type="github"><diagram id="1hs1S2wdn84tnfQLvlXV">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-07T22:26:06.984Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="CYEJhONG9XIQiqgKfUio" version="14.7.3" type="github">
+  <diagram id="1hs1S2wdn84tnfQLvlXV" name="Page-1">
+    <mxGraphModel dx="1278" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sNtLLBNpoa640CW80_Qs-1" value="" style="shape=mxgraph.cisco.routers.gigabit_switch_atm_tag_router;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="148" width="50" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="sNtLLBNpoa640CW80_Qs-2" value="" style="shape=mxgraph.cisco.security.firewall;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="749.5" y="577" width="50" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="sNtLLBNpoa640CW80_Qs-3" value="" style="shape=mxgraph.cisco.storage.cloud;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="150" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sNtLLBNpoa640CW80_Qs-4" value="" style="shape=mxgraph.cisco.switches.workgroup_switch;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="281" y="178" width="81" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sNtLLBNpoa640CW80_Qs-5" value="" style="shape=mxgraph.cisco.switches.workgroup_switch;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="300" width="81" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sNtLLBNpoa640CW80_Qs-6" value="" style="shape=mxgraph.cisco.switches.layer_2_remote_switch;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="559" y="340" width="91" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sNtLLBNpoa640CW80_Qs-7" value="" style="shape=mxgraph.cisco.wireless.wireless_transport;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="480" width="77" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="sNtLLBNpoa640CW80_Qs-8" value="" style="shape=mxgraph.cisco.wireless.wireless_transport;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="736" y="450" width="77" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="sNtLLBNpoa640CW80_Qs-9" value="" style="shape=mxgraph.cisco.wireless.wireless_transport;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="523" width="77" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="sNtLLBNpoa640CW80_Qs-10" value="" style="shape=mxgraph.cisco.wireless.wi-fi_tag;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="330" width="74" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="sNtLLBNpoa640CW80_Qs-11" value="" style="shape=mxgraph.cisco.wireless.wlan_controller;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="534" width="101" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="sNtLLBNpoa640CW80_Qs-13" value="" style="shape=mxgraph.cisco.storage.fibre_channel_disk_subsystem;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="534" width="43" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="sNtLLBNpoa640CW80_Qs-14" value="" style="shape=mxgraph.cisco.storage.file_cabinet;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="146" y="148" width="51" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="sNtLLBNpoa640CW80_Qs-15" value="" style="shape=mxgraph.cisco.servers.file_server;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="284" width="53" height="96" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
